@@ -4,13 +4,13 @@
   "keywords": ["V", "X"],
   "env": {
     "ProxySite": {
-      "description": "反代的网站(伪装网站)，例如：mirror.umd.edu ",
-      "value": "mirror.umd.edu"
+      "description": "反代的网站(伪装网站)，例如：xaya.io ",
+      "value": "xaya.io"
     },
 
     "Vless_UUID": {
       "description": "Vless uuid（http://www.uuid.online/在线生成）",
-      "value": "f8bfb621-6728-4a6c-ae69-2106cd3d7c8a"
+      "value": "be2bf4db-411d-4a5f-b594-fc7d87cc4ef8"
     },
 
     "Vless_Path": {
@@ -19,7 +19,7 @@
     },
     "Vmess_UUID": {
       "description": "Vmess uuid（http://www.uuid.online/在线生成）",
-      "value": "f8bfb621-6728-4a6c-ae69-2106cd3d7c8a"
+      "value": "be2bf4db-411d-4a5f-b594-fc7d87cc4ef8"
     },
 
     "Vmess_Path": {

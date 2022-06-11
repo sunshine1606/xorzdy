@@ -4,8 +4,8 @@
   "keywords": ["V", "X"],
   "env": {
     "ProxySite": {
-      "description": "反代的网站(伪装网站)，例如：xaya.io ",
-      "value": "xaya.io"
+      "description": "反代的网站(伪装网站)，例如：www.bing.com ",
+      "value": "www.bing.com"
     },
 
     "Vless_UUID": {
